@@ -17,7 +17,7 @@ We design with empathy, build with precision, and focus on what truly matters ac
 - **Deep-Focus Endurance** — We cultivate async-first environments that allow for sustained flow states, recognizing that elite output requires intense, uninterrupted execution.
 
 ### Infrastructure & Architecture
-`Swift / SwiftUI` · `Python (CLI & Automation` · `MetaTrader 5` · `On-Device LLMs` · `macOS / iOS` · `Algorithmic Surveillance`
+`Swift / SwiftUI` · `Python (CLI & Automation)` · `MetaTrader 5` · `On-Device LLMs` · `macOS / iOS` · `Algorithmic Surveillance`
  
 ### The Fukuoka Horizon
 Our global trajectory points to one specific coordinate: Fukuoka, Japan (Spring 2028). Driven by the solo transition outlined in Protocol Knightfall, this horizon represents the physical manifestation of our digital ethos—a sanctuary where deep-focus endurance meets elite software design.
