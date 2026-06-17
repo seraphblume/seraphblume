@@ -28,4 +28,4 @@ Based in México · open to remote.
   <img src="ZL Logo V2.svg" alt="Discover ZepheniaLabs" width="200"/>
 </a>
 
-*Click to view the ZepheniaLabs Manifesto and Organizational Architecture.*
+*Click to view the ZepheniaLabs Architecture and Operational Philosophy.*
