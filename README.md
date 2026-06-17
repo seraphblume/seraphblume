@@ -21,3 +21,11 @@ Based in México · open to remote.
 - Email: blumenity@icloud.com
 - LinkedIn: _coming soon_
  
+---
+### Founder & Architect
+
+<a href="About ZepheniaLabs.md">
+  <img src="ZL Logo V2.svg" alt="Discover ZepheniaLabs" width="200"/>
+</a>
+
+*Click to view the ZepheniaLabs Manifesto and Organizational Architecture.*
